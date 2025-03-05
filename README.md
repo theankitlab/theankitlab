@@ -1,5 +1,3 @@
-<center>
-
 # Hi there👋, <br> I'm [Ankit kumar]()😄
 
 ### A Young programmer who Loves to Learn 😜
@@ -8,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamankitm05@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8539086172)
 
-</center>
 
 - 🔭 I’m currently working on Building a SaaS platform that helps people in developing smart cities using AI, ML, and mobile applications.
 
@@ -25,20 +22,18 @@
 - ⚡ Fun fact: I practice martial arts 
 
 
-### Languages I Know 
+### Languages 
 
 ![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,java,nodejs)
 
 
-### Tools I use 
+### Tools
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,firebase,figma,git,postman)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=theankitlab&layout=compact&theme=dark)
 
-
-### My Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theankitlab&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theankitlab&theme=dark)
