@@ -1,4 +1,4 @@
-
+<center>
 
 # Hi there👋, <br> I'm [Ankit kumar]()😄
 
@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theankitlab) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamankitm05@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8539086172)
+
+</center>
 
 - 🔭 I’m currently working on Building a SaaS platform that helps people in developing smart cities using AI, ML, and mobile applications.
 
@@ -23,21 +25,25 @@
 - ⚡ Fun fact: I practice martial arts 
 
 
-
-### Languages
+### Languages I Know 
 
 ![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,java,nodejs)
 
-### Tools
+
+### Tools I use 
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,firebase,figma,git,postman)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=theankitlab&layout=compact&theme=dark)
 
+
+### My Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theankitlab&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theankitlab&theme=dark)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=theankitlab&theme=darkhub)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theankitlab&theme=github-dark)
